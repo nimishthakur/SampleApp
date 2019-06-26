@@ -1,0 +1,28 @@
+C:\Program Files\MongoDB\Server\4.0-----new variable in system env
+edit path add new path
+open cmd monod gives error create folder data in c drive and db in that data folder and again run mongod
+open new cmd run mongo
+rows objects
+columns attributes
+_id >>>> unique >>>> objectID
+
+condition criteria
+
+db.employees.insertMany([{"name":"Prem",
+"age":52,
+"salary":20000,
+"dept":"dev"},
+{
+"name":"shyam",
+"age":54,
+"salary":30000,
+"dept":"tester"
+},
+{"name":"John",
+"age":58,
+"salary":25000,
+"dept":"qa"}])
+
+db.employees.find( { $and: [ { age: { $gte: 50 } }, { age: { $lte: 60 } } ] } );
+
+db.employees.insert({"name" :"Jacob","age" :27,"salary" :30000, "dept" :"Marketing"})

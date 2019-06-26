@@ -1,0 +1,8 @@
+3 lines of server----run on cmd
+open google dev. tools click on 
+
+--inspect provide debugger mode
+re.send always last line
+-----------------------------------------------
+router
+

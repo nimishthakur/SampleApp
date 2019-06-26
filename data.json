@@ -1,0 +1,19 @@
+{
+	"data":[
+		{
+			"name":"Nimish",
+			"age":23,
+			"id":1
+		},
+		{
+			"name":"Sid",
+			"age":52,
+			"id":2
+		},
+		{
+			"name":"dev",
+			"age":32,
+			"id":3
+		}
+	]
+}
